@@ -23,7 +23,7 @@ def Subscraption():
 		print("")
 		print(" Copy And Send Key To MR-GREEN")
 		print ("")
-		print (" Your Key : "+ak+MR-GREEN+key1)
+		print (" Your Key : "+ak+MR+key1)
 		print ("")
 		name = input(" MR-GREEN : ")
 		print ("")
